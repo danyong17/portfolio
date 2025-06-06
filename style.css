@@ -1,0 +1,31 @@
+
+.portfolio-section {
+    background-color: #fefae0;
+    family: "Outfit", sans-serif;
+}
+.portfolio-section .img {
+    padding-top:56%;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid #ccd5ae;
+}
+a.btn-type {
+    margin-top: 10px;
+    display: inline-block;
+    background-color: rgb(250, 237, 205,0.5);
+    padding:12px 20px;
+    color:#b68c62;
+    text-decoration: none;
+    font-family: "Sora", sans-serif;
+    margin-bottom: 10px;
+    border:1px solid #d4a373;
+    text-align: center;
+}
+a.btn-type:hover {
+    text-decoration: underline;
+}
+.info {
+    background-color:#fefefe;
+    border:1px solid #ccd5ae;
+    border-top-width:2px;
+}
